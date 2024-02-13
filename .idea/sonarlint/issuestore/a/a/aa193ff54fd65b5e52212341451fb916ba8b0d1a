@@ -1,0 +1,36 @@
+
+h	java:S112÷"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ØŒø’Î1
+L
+java:S3740%"/Provide the parametrized type for this generic.(´°æ¸8ÙŒø’Î1
+Q
+java:S3740("/Provide the parametrized type for this generic.(ºšãÿıÿÿÿÿ8ÙŒø’Î1
+L
+java:S3740+"/Provide the parametrized type for this generic.(Œà•®8ÙŒø’Î1
+L
+java:S3740."/Provide the parametrized type for this generic.(ÚÊØ˜8ÙŒø’Î1
+Q
+java:S37401"/Provide the parametrized type for this generic.(ù‚©·üÿÿÿÿ8ÙŒø’Î1
+s
+java:S1104#"VMake searchText a static final constant or non-public and provide accessors if needed.(°çÇí8ÙŒø’Î1
+V
+java:S2589Ï"8Remove this expression which always evaluates to "false"(¥Õ•ó8ÿŒø’Î1
+I
+java:S1602M",Remove useless curly braces around statement(ŠĞå™8„ø’Î1
+b
+java:S2147w"ECombine this catch with the one at line 117, which has the same body.(ıàÑÎ8…ø’Î1
+I
+java:S1602m",Remove useless curly braces around statement(ë¹¬8†ø’Î1
+U
+java:S1172Ã"2Remove this unused method parameter "actionEvent".(Íáå‘ùÿÿÿÿ8Œø’Î1
+Œ
+java:S1130Í"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(‘õ°8ø’Î1
+—
+java:S1130Í"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(‘õ°8ø’Î1
+P
+java:S1172Í"2Remove this unused method parameter "actionEvent".(‘õ°8ø’Î1
+c
+java:S2147ê"ECombine this catch with the one at line 232, which has the same body.(ıàÑÎ8’ø’Î1
+J
+java:S1602â",Remove useless curly braces around statement(ë¹¬8“ø’Î1
+P
+java:S1172ï"2Remove this unused method parameter "actionEvent".(¥Ò÷Õ8”ø’Î1

@@ -1,0 +1,15 @@
+
+L
+java:S3740_"/Provide the parametrized type for this generic.(‡İ‰8Ìå•¶É1
+a
+java:S1854"?Remove this useless assignment to local variable "transaction".(¹æ¢üÿÿÿÿ8×å•¶É1
+R
+java:S1481"0Remove this unused "transaction" local variable.(¹æ¢üÿÿÿÿ8Øå•¶É1
+I
+java:S1128",Remove this unused import 'db.DBConnection'.(Šùà†8‹Š—¶É1
+I
+java:S1128",Remove this unused import 'entity.Customer'.(éş²¢8‹Š—¶É1
+Y
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8‹Š—¶É1
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8‹Š—¶É1

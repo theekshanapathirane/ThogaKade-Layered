@@ -1,0 +1,9 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(® ©ş8ôù½‘Î1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8õù½‘Î1
+P
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8õù½‘Î1
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8õù½‘Î1
